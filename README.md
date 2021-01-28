@@ -2,4 +2,4 @@
 
 # Cardio - Previsão de Doença Cardiaca
 
-# Titanic-Github - Previsão de sobrevivencia dos passageiros do Titanic
+# Titanic-Github - Previsão de sobreviventes do Titanic
