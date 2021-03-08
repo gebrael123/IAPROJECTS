@@ -1,4 +1,4 @@
-# Esta pasta contem todos os prejotos finalizados e relacionados a machine learning
+# Esta pasta contem todos os prejotos finalizados e relacionados a IA
 
 # Cardio - Previsão de Doença Cardiaca
 
