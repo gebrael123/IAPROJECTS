@@ -7,3 +7,5 @@
 # Titanic-Github - Previsão de sobreviventes do Titanic
 
 # Frozen Lake - Utilização de reinforcement learning, onde crio um agente capaz de percorrer um "labirinto".
+
+# Frozen Lake - Utilização de reinforcement learning, onde crio um agente capaz de jogar Black Jack.
