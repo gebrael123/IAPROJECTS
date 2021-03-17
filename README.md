@@ -1,4 +1,4 @@
-# Esta pasta contem todos os prejotos finalizados e relacionados a IA
+# Esta pasta contem todos os projetos finalizados e relacionados a IA
 
 # Os Arquivos em HTML tem como função apenas visualizar o projeto pelo proprio navegador, por isso realize o download do arquivo.
 
